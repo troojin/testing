@@ -20,7 +20,7 @@
     "clear-users": "node server/scripts/clearUsers.js"
   },
   "engines": {
-    "node": "24.x"
+    "node": "20.x"
   },
   "keywords": [],
   "author": "",
