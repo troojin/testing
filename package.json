@@ -19,9 +19,6 @@
     "generate-test-users": "node server/scripts/generateTestUsers.js",
     "clear-users": "node server/scripts/clearUsers.js"
   },
-  "engines": {
-    "node": "20.x"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
