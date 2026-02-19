@@ -1,3 +1,4 @@
+console.log("JS loaded ✅");
 (function () {
   function applyTheme(theme) {
     document.documentElement.setAttribute('data-theme', theme);
