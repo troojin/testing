@@ -23,7 +23,7 @@
   "author": "",
   "license": "ISC",
   "engines": {
-    "node": "18.x || 24.x"
+    "node": "18.x"
   },
   "dependencies": {
     "@mailchimp/mailchimp_marketing": "^3.0.80",
